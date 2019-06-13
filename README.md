@@ -7,12 +7,8 @@ This repository contains my implementation of a video captioning system. This sy
 For running our code and reproducing the results, the following packages need to be installed first. We have used Python 3.6 for the whole of this project.
 
 Packages:
-* TensorFlow
-* Caffe
 * NumPy
 * cv2
-* imageio
-* scikit-image
 
 ## Running instructions
 
