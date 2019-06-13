@@ -20,9 +20,7 @@ $ wget https://pjreddie.com/media/files/yolov3.weights
 
 ## Running instructions
 
-## Sample results
-
-Attached below are a few screenshots from caption generation for videos from the **validation set**.
+Run the main.ipynb notebook
 
 ## Demo part 1
 ![](gifs/demo_1.gif)
