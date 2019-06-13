@@ -24,6 +24,8 @@ $ wget https://pjreddie.com/media/files/yolov3.weights
 
 Attached below are a few screenshots from caption generation for videos from the **validation set**.
 
-# Demo
-
+## Demo part 1
 ![](gifs/demo_1.gif)
+
+## Demo part 2
+![](gifs/demo_2.gif)
