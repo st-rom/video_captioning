@@ -6,9 +6,17 @@ This repository contains my implementation of a video captioning system. This sy
 ## Requirements
 For running our code and reproducing the results, the following packages need to be installed first. We have used Python 3.6 for the whole of this project.
 
-Packages:
-* NumPy
+PIP Packages:
+* numpy
+* argparse
+* imutils
+* time
 * cv2
+* os
+
+Also you should download the pre-trained YOLO v3 weights file from this link and place it in the current directory or you can directly download to the current directory in terminal using
+
+$ wget https://pjreddie.com/media/files/yolov3.weights
 
 ## Running instructions
 
@@ -18,4 +26,4 @@ Attached below are a few screenshots from caption generation for videos from the
 
 # Demo
 
-A **demo of my system** can be found
+![](gifs/demo_1.gif)
