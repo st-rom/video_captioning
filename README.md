@@ -1,7 +1,7 @@
 # Image-Captioning-Project
 
 ## Introduction
-This repository contains my implementation of a video captioning system. This system takes as input a **video** and generates a **caption** describing the event in the video. 
+This repository contains my implementation of a video captioning system. This system takes as input a **video** and generates a **caption** describing the event in the live video. 
 
 ## Requirements
 For running our code and reproducing the results, the following packages need to be installed first. We have used Python 3.6 for the whole of this project.
@@ -22,7 +22,7 @@ Run main.py file using command:
 
 $ python main.py
 
-in this case this will be object detection and captioning from your web cam live. To exit cam window press '**q**'
+in this case this will be object detection and captioning from your webcam live. To exit cam window press '**q**'
 
 You can also do video captioning on already prerecorded videos. The result will be saved to output/output.avi. Just use argument -v / --video [path to video file].
 Example:
