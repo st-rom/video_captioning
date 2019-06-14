@@ -32,6 +32,11 @@ $ python main.py --video input/input.avi
 In case you want to change file name and location where processed video will be saved to use argument --output
 To change confidence level and threshold parameters use arguments --confidence and --threshold respectively.
 
+
+**video_recorder.py** is a program with which help you can record video from your webcam and the result will be saved to input/input.avi. Press **q** to finish recording. Run with:
+$ python video_recorder.py
+
+
 ## Demo uploaded video
 ![](gifs/college_cat.gif)
 
