@@ -32,12 +32,11 @@ $ python main.py --video input/input.avi
 In case you want to change file name and location where processed video will be saved to use argument --output
 To change confidence level and threshold parameters use arguments --confidence and --threshold respectively.
 
+## Demo uploaded video
+![](gifs/college_cat.gif)
 
 ## Demo live web cam part 1
 ![](gifs/demo_1.gif)
 
 ## Demo live web cam part 2
 ![](gifs/demo_2.gif)
-
-## Demo uploaded video
-![](gifs/college_cat.gif)
