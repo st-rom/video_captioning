@@ -22,7 +22,7 @@ Run main.py file using command:
 
 $ python main.py
 
-in this case this will be object detection and captioning from your web cam live.
+in this case this will be object detection and captioning from your web cam live. To exit cam window press '**q**'
 
 You can also do video captioning on already prerecorded videos. The result will be saved to output/output.avi. Just use argument -v / --video [path to video file].
 Example:
