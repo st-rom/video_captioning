@@ -10,9 +10,7 @@ PIP Packages:
 * numpy
 * argparse
 * imutils
-* time
 * cv2
-* os
 
 Also you should download the pre-trained YOLO v3 weights file from this link and place it in the current directory or you can directly download to the current directory in terminal using
 
@@ -20,7 +18,20 @@ $ wget https://pjreddie.com/media/files/yolov3.weights
 
 ## Running instructions
 
-Run the main.ipynb notebook
+Run main.py file using command:
+
+$ python main.py
+
+in this case this will be object detection and captioning from your web cam live.
+
+You can also do video captioning on already prerecorded videos. The result will be saved to output/output.avi. Just use argument -v / --video [path to video file].
+Example:
+
+$ python main.py --video input/input.avi
+
+In case you want to change file name and location where processed video will be saved to use argument --output
+To change confidence level and threshold parameters use arguments --confidence and --threshold respectively.
+
 
 ## Demo part 1
 ![](gifs/demo_1.gif)
