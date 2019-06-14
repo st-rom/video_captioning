@@ -33,8 +33,11 @@ In case you want to change file name and location where processed video will be 
 To change confidence level and threshold parameters use arguments --confidence and --threshold respectively.
 
 
-## Demo part 1
+## Demo live web cam part 1
 ![](gifs/demo_1.gif)
 
-## Demo part 2
+## Demo live web cam part 2
 ![](gifs/demo_2.gif)
+
+## Demo uploaded video
+![](gifs/college_cat.gif)
